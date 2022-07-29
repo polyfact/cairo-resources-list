@@ -2,11 +2,7 @@
 
 A curated list of awesome Cairo resources, libraries, tools and more.
 
-{% note %}
-
-**Note:** 💭 Join [Cairo Gang](https://t.me/+XUKxiUisflE0MTRk) – Telegram community of Cairo Devs 🚀
-
-{% endnote %}
+<p class="callout info">💭 Join [Cairo Gang](https://t.me/+XUKxiUisflE0MTRk) – Telegram community of Cairo Devs 🚀</p>
 
 ## TL;DR
 
