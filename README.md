@@ -25,6 +25,7 @@ This list is created to help learn Cairo & Starknet ecosystem projects. This is 
 
 ### Resources
 
+- [Intro Presentation from StarkNet Hackathon, 2022](https://docs.google.com/presentation/d/1E1b2uecN4Fr1S94hPQx-s7vb4EoNVk2Qv-jiJ6eUwB4/edit?usp=sharing) – pdf with some useful exercises
 - [Awesome Starknet](https://github.com/gakonst/awesome-starknet) – useful resources about Starknet, Cairo
 - [StarkNet and Cairo Documentation](https://www.cairo-lang.org/docs/index.html) - Official Documentation.
 - [Setting up the environment](https://www.cairo-lang.org/docs/quickstart.html) - How to install Cairo and StarkNet.
