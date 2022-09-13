@@ -38,6 +38,8 @@ This list is created to help learn Cairo & Starknet ecosystem projects. This is 
 - [A verified algebraic representation of Cairo program execution](https://arxiv.org/abs/2109.14534) - Proof Cairo's soundness using the [Lean proof assistant](https://en.wikipedia.org/wiki/Lean_(proof_assistant))
 - [Cairo Playground](https://www.cairo-lang.org/playground/) - In-browser Cairo IDE, examples and puzzles
 - [YouTube channel](https://www.youtube.com/channel/UCnDWguR8mE2oDBsjhQkgbvg/playlists) - Official StarkWare YouTube channel.
+- [Building a game fully on-chain](https://youtu.be/3_WLjLsYUbM) – Ronan Sandford lecture from EthCC 3
+- [Ctrlc03 Cairo Security Guide](https://ctrlc03.github.io) - a comprehensive guide about Cairo Security for beginners and advanced users
 
 ### **Articles**
 
