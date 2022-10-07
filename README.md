@@ -18,6 +18,28 @@ This list is created to help learn Cairo & Starknet ecosystem projects. This is 
 - [Cairo Lang Twitter](https://mobile.twitter.com/cairolang)
 - [StarkNet Discord](https://discord.com/invite/starknet)  – The ***StarkNet*** server is where all ***StarkNet*** participants discuss and share
 - [Cairo Resource Guide](https://www.cairo-lang.org/resource-guide/) – Official list with documentation, playground, whitepaper and many other resources
+- StarkNet china [https://t.me/starknet_zh](https://t.me/starknet_zh)
+- StarkNet ecosystem [https://t.me/starknet_ecosystem](https://t.me/starknet_ecosystem)
+- StarkNet Discord [https://discord.com/invite/qypnmzkhbc](https://discord.com/invite/qypnmzkhbc)
+- StarkNet Paris [https://t.me/+wsO2W_-K7HgzZjBk](https://t.me/+wsO2W_-K7HgzZjBk)
+- StarkNet India [https://t.me/starknetindia](https://t.me/starknetindia)
+- StarkNet LA group: [https://t.me/+84DqakqR-vowYjY0](https://t.me/+84DqakqR-vowYjY0)
+- StarkNet NY: [https://t.me/+bYjV51CM1SIxY2Q0](https://t.me/+bYjV51CM1SIxY2Q0)
+- StarkNet Sydney: [https://t.me/+XL7WrK9S1MYxZTk0](https://t.me/+XL7WrK9S1MYxZTk0)
+- Cairo Vietnam [https://t.me/+dL-oY6-slrY3NDU1](https://t.me/+dL-oY6-slrY3NDU1)
+- StarkNet versions update channel [https://t.me/+EkT8aCg9R-xjZGU0](https://t.me/+EkT8aCg9R-xjZGU0)
+- For those going at Token2049 Singapore [https://t.me/starknetToken2049Singapore_2022 /](https://t.me/starknetToken2049Singapore_2022) [https://t.me/+Vzci6ob7QzphZTQ0](https://t.me/+Vzci6ob7QzphZTQ0)
+- For those going at DevCon Bogota [https://t.me/starknetDevcon_2022](https://t.me/starknetDevcon_2022)
+- EthLisbon – [https://t.me/starknetEthLisbon_2022](https://t.me/starknetEthLisbon_2022)
+- zkGraph telegram – [https://t.me/+b9d7ytd9BQ5lZDA1](https://t.me/+b9d7ytd9BQ5lZDA1)
+- DeFi and StarkNet – [https://t.me/c/1676230148/7118](https://t.me/c/1676230148/7118)
+- [Checkpoint.fyi](http://Checkpoint.fyi) group [https://t.me/+dk7Q7FAVJ1oyMDFl](https://t.me/+dk7Q7FAVJ1oyMDFl)
+- Index Queries group: [https://t.me/+NcG5Y4M6_kczMDVh](https://t.me/+NcG5Y4M6_kczMDVh)
+- StarkNet Ecosystem [non-tech]: [https://t.me/+e8IlIwMUsI9kY2E0](https://t.me/+e8IlIwMUsI9kY2E0)
+- Starknet Core Stars Amsterdam: [https://t.me/+S9iJ-F5g6302N2Y0](https://t.me/+S9iJ-F5g6302N2Y0)
+- Math for Cairo [https://t.me/+M40ddcHHRDgzZjBk](https://t.me/+M40ddcHHRDgzZjBk)
+- StarkNet Boston meetup [https://t.me/+OIb9fn3Bmpc3Yjg0](https://t.me/+OIb9fn3Bmpc3Yjg0)
+- StarkNet Education [for edu projects]: [https://t.me/+g3YrPwFimOdkN2Rh](https://t.me/+g3YrPwFimOdkN2Rh)
 
 # Resources
 
