@@ -18,7 +18,7 @@ This list is created to help learn Cairo & Starknet ecosystem projects. This is 
 - [Cairo Lang Twitter](https://mobile.twitter.com/cairolang)
 - [StarkNet Discord](https://discord.com/invite/starknet)  – The ***StarkNet*** server is where all ***StarkNet*** participants discuss and share
 - [Cairo Resource Guide](https://www.cairo-lang.org/resource-guide/) – Official list with documentation, playground, whitepaper and many other resources
-- StarkNet china [https://t.me/starknet_zh](https://t.me/starknet_zh)
+- StarkNet Сhina [https://t.me/starknet_zh](https://t.me/starknet_zh)
 - StarkNet ecosystem [https://t.me/starknet_ecosystem](https://t.me/starknet_ecosystem)
 - StarkNet Discord [https://discord.com/invite/qypnmzkhbc](https://discord.com/invite/qypnmzkhbc)
 - StarkNet Paris [https://t.me/+wsO2W_-K7HgzZjBk](https://t.me/+wsO2W_-K7HgzZjBk)
