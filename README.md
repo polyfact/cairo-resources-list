@@ -144,3 +144,4 @@ This list is created to help learn Cairo & Starknet ecosystem projects. This is 
 - [starknet-upgradeable-template](https://github.com/micksabox/starknet-upgradeable-template) - Inspired/copied from DOPE wars architecture: Starter initialized with nile CLI with a arbiter-controller-module skeleton
 - [QuantumQuests](https://github.com/Meph1587/QuantumQuests) - Forgotten Quests implementation in Cairo
 - [starkworld_hackathon](https://github.com/0xbohu/starkworld_hackathon) - StarkWorld is a 3D game built on StarkNet, player can mint a land NFT (ERC721) and build on the land
+- [Dragon Quest](https://github.com/0xAsten/dragon-quest) - Dragon Quest is a dungeon game designed for Realms adventurers, player can mint an adventurer then go to slay dragons.
