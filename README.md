@@ -62,6 +62,7 @@ This list is created to help learn Cairo & Starknet ecosystem projects. This is 
 - [YouTube channel](https://www.youtube.com/channel/UCnDWguR8mE2oDBsjhQkgbvg/playlists) - Official StarkWare YouTube channel.
 - [Building a game fully on-chain](https://youtu.be/3_WLjLsYUbM) – Ronan Sandford lecture from EthCC 3
 - [Ctrlc03 Cairo Security Guide](https://ctrlc03.github.io) - a comprehensive guide about Cairo Security for beginners and advanced users
+- [StarkNet Cairo 写合约](https://www.youtube.com/playlist?list=PLrxZweTBwVCtjAJIzZWrZATuhekC9eIjX) - Video tutorial for writing and deploying a contract using Cairo in Mandarin
 
 ### **Articles**
 
@@ -72,6 +73,8 @@ This list is created to help learn Cairo & Starknet ecosystem projects. This is 
 - [Cairo Concepts Overview](https://perama-v.github.io/cairo/description/) - High level overview of concepts encountered in the Cairo ecosystem (Ethereum, Smart Contracts, Decentralization, Scaling, L2, Rollups, ZKPs etc.)
 - [Account Abstraction](https://perama-v.github.io/cairo/account-abstraction/) - Explanation of StarkNet's account abstraction
 - [Test Accounts](https://perama-v.github.io/cairo/examples/test_accounts/) - Explanation of building test accounts
+- [ZK-SNARK 介绍](https://mirror.xyz/0x93158035d2FF0f03ea0686B508162EA3E62c8815/V89AljpttCmNM_vgJDtGZwwGmRWfTga6JmxFfqWhlUk) - ZK-SNARK Introduction
+- [ZK-STARK 介绍](https://mirror.xyz/0x93158035d2FF0f03ea0686B508162EA3E62c8815/7o0kE6pylEN_GRUuXYkq8GXgXhZ3FoWQn_RgaOILbbM) - ZK-STARK Introduction
 
 ### **Examples**
 
